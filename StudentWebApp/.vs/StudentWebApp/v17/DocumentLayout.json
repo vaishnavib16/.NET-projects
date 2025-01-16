@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP\\StudentWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|c:\\asp\\studentwebapp\\studentwebapp\\service\\studentiml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\service\\studentiml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|c:\\asp\\studentwebapp\\studentwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|c:\\asp\\studentwebapp\\studentwebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|c:\\asp\\studentwebapp\\studentwebapp\\service\\studentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\service\\studentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|c:\\asp\\studentwebapp\\studentwebapp\\repository\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\repository\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|c:\\asp\\studentwebapp\\studentwebapp\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|c:\\asp\\studentwebapp\\studentwebapp\\studentwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\studentwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|c:\\asp\\studentwebapp\\studentwebapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614EF39E-85C0-4A26-BCD9-CE79BAFE88D7}|StudentWebApp\\StudentWebApp.csproj|solutionrelative:studentwebapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ASP\\StudentWebApp\\StudentWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Program.cs",
+              "ToolTip": "C:\\ASP\\StudentWebApp\\StudentWebApp\\Program.cs",
+              "RelativeToolTip": "StudentWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:47:01.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\ASP\\StudentWebApp\\StudentWebApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\ASP\\StudentWebApp\\StudentWebApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentWebApp\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:05:17.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\ASP\\StudentWebApp\\StudentWebApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\ASP\\StudentWebApp\\StudentWebApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "StudentWebApp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:04:50.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentIml.cs",
+              "DocumentMoniker": "C:\\ASP\\StudentWebApp\\StudentWebApp\\Service\\StudentIml.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Service\\StudentIml.cs",
+              "ToolTip": "C:\\ASP\\StudentWebApp\\StudentWebApp\\Service\\StudentIml.cs",
+              "RelativeToolTip": "StudentWebApp\\Service\\StudentIml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:45:41.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentInterface.cs",
+              "DocumentMoniker": "C:\\ASP\\StudentWebApp\\StudentWebApp\\Service\\StudentInterface.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Service\\StudentInterface.cs",
+              "ToolTip": "C:\\ASP\\StudentWebApp\\StudentWebApp\\Service\\StudentInterface.cs",
+              "RelativeToolTip": "StudentWebApp\\Service\\StudentInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:42:56.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\ASP\\StudentWebApp\\StudentWebApp\\Repository\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Repository\\StudentContext.cs",
+              "ToolTip": "C:\\ASP\\StudentWebApp\\StudentWebApp\\Repository\\StudentContext.cs",
+              "RelativeToolTip": "StudentWebApp\\Repository\\StudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:22:05.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentWebApp.csproj",
+              "DocumentMoniker": "C:\\ASP\\StudentWebApp\\StudentWebApp\\StudentWebApp.csproj",
+              "RelativeDocumentMoniker": "StudentWebApp\\StudentWebApp.csproj",
+              "ToolTip": "C:\\ASP\\StudentWebApp\\StudentWebApp\\StudentWebApp.csproj",
+              "RelativeToolTip": "StudentWebApp\\StudentWebApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T11:20:26.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\ASP\\StudentWebApp\\StudentWebApp\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "StudentWebApp\\Entity\\Student.cs",
+              "ToolTip": "C:\\ASP\\StudentWebApp\\StudentWebApp\\Entity\\Student.cs",
+              "RelativeToolTip": "StudentWebApp\\Entity\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:17:58.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

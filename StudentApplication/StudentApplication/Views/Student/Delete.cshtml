@@ -1,0 +1,16 @@
+﻿@model StudentApplication.Models.Student
+
+@{
+    ViewBag.Title = "delete Student";
+}
+
+<h2>Create Product</h2>
+
+@using (Html.BeginForm("Delete", "Student", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.id)
+        @Html.EditorFor(model => model.id, new { htmlAttributes = new { @class = "form-control" } })
+    </div>
+    <button type="submit" class="btn btn-primary">Delete</button>
+}

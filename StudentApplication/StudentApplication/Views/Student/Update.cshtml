@@ -1,0 +1,60 @@
+﻿@model StudentApplication.Models.Student
+
+@{
+    ViewData["Title"] = "Update Student";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Update" method="post">
+    <div class="form-group">
+        <label asp-for="id" class="control-label"></label>
+        <input asp-for="id" class="form-control" />
+        <span asp-validation-for="id" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="name" class="control-label"></label>
+        <input asp-for="name" class="form-control" />
+        <span asp-validation-for="name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="email" class="control-label"></label>
+        <input asp-for="email" class="form-control" />
+        <span asp-validation-for="email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="phone" class="control-label"></label>
+        <input asp-for="phone" class="form-control" />
+        <span asp-validation-for="phone" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="address" class="control-label"></label>
+        <input asp-for="address" class="form-control" />
+        <span asp-validation-for="address" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="admission_date" class="control-label"></label>
+        <input asp-for="admission_date" class="form-control" type="date" />
+        <span asp-validation-for="admission_date" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="fees" class="control-label"></label>
+        <input asp-for="fees" class="form-control" type="number" step="0.01" />
+        <span asp-validation-for="fees" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="status" class="control-label"></label>
+        <input asp-for="status" class="form-control" />
+        <span asp-validation-for="status" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Update" class="btn btn-primary" />
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

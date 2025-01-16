@@ -1,0 +1,38 @@
+﻿@model Student
+
+<form method="post">
+   <div class="border p-3 mt-4">
+    <div>
+        <h2 class="text-primary">Add student</h2>
+        <hr/>
+    </div>
+        <div class="row">
+            <label asp-for="Id" class="p-0"></label>
+            <input asp-for="Id" type="text" class="form-control" placeholder="Id" />
+
+        </div>
+        <div class="row">
+        <label asp-for="Name" class="p-0"></label>
+        <input asp-for="Name" type="text" class="form-control"/>
+
+        </div>
+        <div class="row">
+            <label asp-for="Email" class="p-0"></label>
+            <input asp-for="Email" type="text" class="form-control" />
+
+        </div>
+        <div class="row">
+            <label asp-for="Status" class="p-0"></label>
+            <input asp-for="Status" type="text" class="form-control" />
+
+        </div>
+        <div>
+            <div class="col-6 col-md-3">
+                <button type="submit" class="btn btn-primary form-control">add</button>
+            </div>
+            <div class="col-6">
+                <a asp-controller="Student" asp-action="Index" class="btn btn-outline-secondary form-control">back to list</a>
+            </div>
+        </div>
+   </div>
+</form>

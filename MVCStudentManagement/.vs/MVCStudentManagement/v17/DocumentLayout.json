@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP\\MVCStudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|c:\\asp\\mvcstudentmanagement\\mvcstudentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|solutionrelative:mvcstudentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|c:\\asp\\mvcstudentmanagement\\mvcstudentmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|solutionrelative:mvcstudentmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|c:\\asp\\mvcstudentmanagement\\mvcstudentmanagement\\migrations\\20240709170523_addstudenttabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|solutionrelative:mvcstudentmanagement\\migrations\\20240709170523_addstudenttabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|c:\\asp\\mvcstudentmanagement\\mvcstudentmanagement\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|solutionrelative:mvcstudentmanagement\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|c:\\asp\\mvcstudentmanagement\\mvcstudentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|solutionrelative:mvcstudentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|c:\\asp\\mvcstudentmanagement\\mvcstudentmanagement\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|solutionrelative:mvcstudentmanagement\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|c:\\asp\\mvcstudentmanagement\\mvcstudentmanagement\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|solutionrelative:mvcstudentmanagement\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|c:\\asp\\mvcstudentmanagement\\mvcstudentmanagement\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|solutionrelative:mvcstudentmanagement\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|c:\\asp\\mvcstudentmanagement\\mvcstudentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|solutionrelative:mvcstudentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|c:\\asp\\mvcstudentmanagement\\mvcstudentmanagement\\views\\student\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|solutionrelative:mvcstudentmanagement\\views\\student\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|c:\\asp\\mvcstudentmanagement\\mvcstudentmanagement\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F096738-3F52-4963-8D97-77F65A6D7222}|MVCStudentManagement\\MVCStudentManagement.csproj|solutionrelative:mvcstudentmanagement\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240709170523_AddStudentTableToDb.cs",
+              "DocumentMoniker": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Migrations\\20240709170523_AddStudentTableToDb.cs",
+              "RelativeDocumentMoniker": "MVCStudentManagement\\Migrations\\20240709170523_AddStudentTableToDb.cs",
+              "ToolTip": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Migrations\\20240709170523_AddStudentTableToDb.cs",
+              "RelativeToolTip": "MVCStudentManagement\\Migrations\\20240709170523_AddStudentTableToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:18:03.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MVCStudentManagement\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MVCStudentManagement\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:17:58.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVCStudentManagement\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVCStudentManagement\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:00:13.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "MVCStudentManagement\\Program.cs",
+              "ToolTip": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Program.cs",
+              "RelativeToolTip": "MVCStudentManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:31:00.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVCStudentManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MVCStudentManagement\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:31:30.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCStudentManagement\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "MVCStudentManagement\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T17:36:11.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCStudentManagement\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "MVCStudentManagement\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T17:36:28.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCStudentManagement\\appsettings.json",
+              "ToolTip": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\appsettings.json",
+              "RelativeToolTip": "MVCStudentManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T19:32:32.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCStudentManagement\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "MVCStudentManagement\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T17:06:25.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVCStudentManagement\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "MVCStudentManagement\\Views\\Student\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T19:42:18.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Views\\Student\\Search.cshtml",
+              "RelativeDocumentMoniker": "MVCStudentManagement\\Views\\Student\\Search.cshtml",
+              "ToolTip": "C:\\ASP\\MVCStudentManagement\\MVCStudentManagement\\Views\\Student\\Search.cshtml",
+              "RelativeToolTip": "MVCStudentManagement\\Views\\Student\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T17:36:45.778Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
